@@ -1,0 +1,213 @@
+{
+  "tasks": 20,
+  "sessions": 821,
+  "tool_calls": 17992,
+  "assets": [
+    {
+      "task": "ETT_15T",
+      "asset": "ETT_15T.tar.gz",
+      "sha256": "e0c2ca4bb349d9920bb43d62d9bf814274f6eaeb65d4c51eeb86f4d33a59a338",
+      "bytes": 33826085,
+      "files": 8376,
+      "sessions": 50,
+      "tool_calls": 1041,
+      "url": "https://github.com/haoxin1998/TimeRSI4FevBench/releases/download/v1.1.0/ETT_15T.tar.gz"
+    },
+    {
+      "task": "ETT_1H",
+      "asset": "ETT_1H.tar.gz",
+      "sha256": "5dcbe3ed6c058b2a754172d44f8b3f02109bbf281f1828a8911b4c2b71e42af3",
+      "bytes": 31845040,
+      "files": 7077,
+      "sessions": 50,
+      "tool_calls": 1020,
+      "url": "https://github.com/haoxin1998/TimeRSI4FevBench/releases/download/v1.1.0/ETT_1H.tar.gz"
+    },
+    {
+      "task": "M_DENSE_1D",
+      "asset": "M_DENSE_1D.tar.gz",
+      "sha256": "8281826e65970d3bb97655d3b4ec3c91a1425aa1c901a2c622add20da0dbf189",
+      "bytes": 25506880,
+      "files": 9879,
+      "sessions": 25,
+      "tool_calls": 696,
+      "url": "https://github.com/haoxin1998/TimeRSI4FevBench/releases/download/v1.1.0/M_DENSE_1D.tar.gz"
+    },
+    {
+      "task": "bizitobs_l2c_5T",
+      "asset": "bizitobs_l2c_5T.tar.gz",
+      "sha256": "0a58a774323092eddbd60b48800f52c920f54f5a0b2783ee87acf5d82ea3444d",
+      "bytes": 18628638,
+      "files": 6742,
+      "sessions": 50,
+      "tool_calls": 1086,
+      "url": "https://github.com/haoxin1998/TimeRSI4FevBench/releases/download/v1.1.0/bizitobs_l2c_5T.tar.gz"
+    },
+    {
+      "task": "boomlet_1282",
+      "asset": "boomlet_1282.tar.gz",
+      "sha256": "db015198b591c52be74e3dee12146a86be23eb51385a181e76c6841c2304a3b3",
+      "bytes": 75382385,
+      "files": 5988,
+      "sessions": 50,
+      "tool_calls": 1133,
+      "url": "https://github.com/haoxin1998/TimeRSI4FevBench/releases/download/v1.1.0/boomlet_1282.tar.gz"
+    },
+    {
+      "task": "boomlet_1676",
+      "asset": "boomlet_1676.tar.gz",
+      "sha256": "61ed89eb5168c587184e759ecf1594ea1cdb0a0ed59a477c64b59c37191f000e",
+      "bytes": 242222701,
+      "files": 5805,
+      "sessions": 50,
+      "tool_calls": 1118,
+      "url": "https://github.com/haoxin1998/TimeRSI4FevBench/releases/download/v1.1.0/boomlet_1676.tar.gz"
+    },
+    {
+      "task": "boomlet_619",
+      "asset": "boomlet_619.tar.gz",
+      "sha256": "04243a8fa95126bfdd1ff14ab2b4ed312ea95b096e13721cf48e7e8e8ee3695e",
+      "bytes": 88264250,
+      "files": 5286,
+      "sessions": 50,
+      "tool_calls": 1080,
+      "url": "https://github.com/haoxin1998/TimeRSI4FevBench/releases/download/v1.1.0/boomlet_619.tar.gz"
+    },
+    {
+      "task": "epf_np",
+      "asset": "epf_np.tar.gz",
+      "sha256": "5822901b498ec5e3297f97ca55c6ccc3f7ade02896fa090263f67afea53faf1d",
+      "bytes": 13741851,
+      "files": 6422,
+      "sessions": 50,
+      "tool_calls": 948,
+      "url": "https://github.com/haoxin1998/TimeRSI4FevBench/releases/download/v1.1.0/epf_np.tar.gz"
+    },
+    {
+      "task": "hospital_admissions_1D",
+      "asset": "hospital_admissions_1D.tar.gz",
+      "sha256": "a211e679a0d0c323256ef81d2d37fa5d49cecf4c509ba3cad2592e561d9aed1d",
+      "bytes": 15987150,
+      "files": 4853,
+      "sessions": 50,
+      "tool_calls": 822,
+      "url": "https://github.com/haoxin1998/TimeRSI4FevBench/releases/download/v1.1.0/hospital_admissions_1D.tar.gz"
+    },
+    {
+      "task": "hospital_admissions_1W",
+      "asset": "hospital_admissions_1W.tar.gz",
+      "sha256": "3f1b3f7f02b1d0055fefbe3597a181e9d038968f17332e0bce4f9fc88d233cc3",
+      "bytes": 12865857,
+      "files": 4260,
+      "sessions": 40,
+      "tool_calls": 660,
+      "url": "https://github.com/haoxin1998/TimeRSI4FevBench/releases/download/v1.1.0/hospital_admissions_1W.tar.gz"
+    },
+    {
+      "task": "jena_weather_1H",
+      "asset": "jena_weather_1H.tar.gz",
+      "sha256": "4e7a3c94ee101c14d5bc4b518fd7beeccce8be94bb3f1eedf7bc3985442e638b",
+      "bytes": 41145320,
+      "files": 10145,
+      "sessions": 50,
+      "tool_calls": 1358,
+      "url": "https://github.com/haoxin1998/TimeRSI4FevBench/releases/download/v1.1.0/jena_weather_1H.tar.gz"
+    },
+    {
+      "task": "proenfo_gfc14",
+      "asset": "proenfo_gfc14.tar.gz",
+      "sha256": "f728a998e37e000479f366632c5c2a916af7fe3bf79f1c60476c8c1f18bd4e2f",
+      "bytes": 15079698,
+      "files": 6896,
+      "sessions": 50,
+      "tool_calls": 1083,
+      "url": "https://github.com/haoxin1998/TimeRSI4FevBench/releases/download/v1.1.0/proenfo_gfc14.tar.gz"
+    },
+    {
+      "task": "rohlik_orders_1D",
+      "asset": "rohlik_orders_1D.tar.gz",
+      "sha256": "ff733b354392441068bd7a41bb1d0ca851118bcb9d0656411a2b85ca6cdabe58",
+      "bytes": 7757451,
+      "files": 2812,
+      "sessions": 13,
+      "tool_calls": 311,
+      "url": "https://github.com/haoxin1998/TimeRSI4FevBench/releases/download/v1.1.0/rohlik_orders_1D.tar.gz"
+    },
+    {
+      "task": "rossmann_1D",
+      "asset": "rossmann_1D.tar.gz",
+      "sha256": "fdd70ffb72508a6ee16c6f92108900919f37f9510fb9fba725f34ea292c00c67",
+      "bytes": 42489291,
+      "files": 7070,
+      "sessions": 25,
+      "tool_calls": 742,
+      "url": "https://github.com/haoxin1998/TimeRSI4FevBench/releases/download/v1.1.0/rossmann_1D.tar.gz"
+    },
+    {
+      "task": "rossmann_1W",
+      "asset": "rossmann_1W.tar.gz",
+      "sha256": "41018c0922d8245762f7222e7af29adeef25971f7d63e362050c6742cecab0f9",
+      "bytes": 20165363,
+      "files": 5298,
+      "sessions": 20,
+      "tool_calls": 530,
+      "url": "https://github.com/haoxin1998/TimeRSI4FevBench/releases/download/v1.1.0/rossmann_1W.tar.gz"
+    },
+    {
+      "task": "solar_with_weather_1H",
+      "asset": "solar_with_weather_1H.tar.gz",
+      "sha256": "2782799cadf5428ac880940ccf4d7c41f13c17f0ffef77f21b54f29dfdf2dbb0",
+      "bytes": 13276844,
+      "files": 6270,
+      "sessions": 50,
+      "tool_calls": 892,
+      "url": "https://github.com/haoxin1998/TimeRSI4FevBench/releases/download/v1.1.0/solar_with_weather_1H.tar.gz"
+    },
+    {
+      "task": "uci_air_quality_1H",
+      "asset": "uci_air_quality_1H.tar.gz",
+      "sha256": "0060f7fb1a75ea93e9bc4ee628a1f72f8448f3e0b0f126b88f35ffe2d0ef923b",
+      "bytes": 19257901,
+      "files": 8515,
+      "sessions": 50,
+      "tool_calls": 1050,
+      "url": "https://github.com/haoxin1998/TimeRSI4FevBench/releases/download/v1.1.0/uci_air_quality_1H.tar.gz"
+    },
+    {
+      "task": "uk_covid_nation_1D/cumulative",
+      "asset": "uk_covid_nation_1D--cumulative.tar.gz",
+      "sha256": "c3fe94cbd875a7482b8c711af8f459113a765a83fd1a64d35c047d6c92e7c960",
+      "bytes": 34749424,
+      "files": 12329,
+      "sessions": 50,
+      "tool_calls": 1355,
+      "url": "https://github.com/haoxin1998/TimeRSI4FevBench/releases/download/v1.1.0/uk_covid_nation_1D--cumulative.tar.gz"
+    },
+    {
+      "task": "us_consumption_1Y",
+      "asset": "us_consumption_1Y.tar.gz",
+      "sha256": "1bc41869336ac15e05d4029c00f1068c6b07ea383bdbd40ec27619bb53a8ccb7",
+      "bytes": 11787108,
+      "files": 3202,
+      "sessions": 25,
+      "tool_calls": 513,
+      "url": "https://github.com/haoxin1998/TimeRSI4FevBench/releases/download/v1.1.0/us_consumption_1Y.tar.gz"
+    },
+    {
+      "task": "world_co2_emissions",
+      "asset": "world_co2_emissions.tar.gz",
+      "sha256": "90806912024608674350b27781834914aa25d1467f989db655ca5990921a1719",
+      "bytes": 14989116,
+      "files": 3743,
+      "sessions": 23,
+      "tool_calls": 554,
+      "url": "https://github.com/haoxin1998/TimeRSI4FevBench/releases/download/v1.1.0/world_co2_emissions.tar.gz"
+    }
+  ],
+  "contents": "All primary agent stream transcripts, prompts, candidate/EDA code, feedback and decisions; unsuccessful trials retained.",
+  "omissions": "Provider debug/configuration, credentials, duplicate copied histories and bulk numeric caches; original arrays are retained privately and dataset inputs are reconstructible from public FEV tasks.",
+  "redactions": "Paths and account names are anonymized for privacy.",
+  "full100_windows": 1308,
+  "cutoff_checks": 6098374,
+  "trace_inspection": "Recorded-call review and evaluation provenance are described in docs/DATA-ACCESS.md."
+}

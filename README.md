@@ -3,6 +3,8 @@
 
 TimeRSI uses Claude Code / Fable 5 to develop task-specific forecasting programs around frozen TimesFM 3.0. Agents investigate historical data, implement and evaluate candidates, then compare and combine their predictions for each forecast origin. TimesFM weights are not trained or fine-tuned; generated programs may fit lightweight specialists on available history.
 
+Paper: https://arxiv.org/abs/2610.19725
+
 ## FEV-Bench results
 
 100 tasks, 1,308 forecast windows. Skill scores use the official Seasonal Naive reference; higher is better.

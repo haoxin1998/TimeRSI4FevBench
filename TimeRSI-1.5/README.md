@@ -3,7 +3,7 @@
 This release builds on TimeRSI-1.0's agent-evolved forecasting programs with three changes:
 
 - **Timestral-209M backbone:** execute the existing programs with frozen Timestral instead of TimesFM 3.0.
-- **Permanent historical-feedback fallback:** stop enhancement and use direct backbone forecasts when completed historical windows trigger the fallback rules.
+- **Early stopping for efficiency:** use completed historical feedback to stop unnecessary enhancement and continue with direct backbone forecasts.
 - **Adaptive quantile aggregation:** task-local AdaNormalHedge combines raw and enhanced quantiles using fully matured SQL feedback. This aggregation leaves the point-forecast path unchanged.
 
 Foundation-model weights are not fine-tuned. Forecast decisions use only observations, declared known-future covariates and feedback available before each cutoff.

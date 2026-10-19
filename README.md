@@ -1,4 +1,4 @@
-# TimeRSI for FEV-Bench
+# TimeRSI
 
 Version directory: [TimeRSI-1.5(Timestral)](TimeRSI-1.5/). The existing root implementation and results remain TimeRSI-1.0.
 

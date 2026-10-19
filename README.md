@@ -1,5 +1,6 @@
 # TimeRSI for FEV-Bench
 
+Version directory: [TimeRSI-1.5(Timestral)](TimeRSI-1.5/). The existing root implementation and results remain TimeRSI-1.0.
 
 TimeRSI uses Claude Code / Fable 5 to develop task-specific forecasting programs around frozen TimesFM 3.0. Agents investigate historical data, implement and evaluate candidates, then compare and combine their predictions for each forecast origin. TimesFM weights are not trained or fine-tuned; generated programs may fit lightweight specialists on available history.
 

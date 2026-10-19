@@ -17,6 +17,19 @@ Paper: https://arxiv.org/abs/2610.19725
 
 Recorded end-to-end runtime: **2,511.713 seconds per 100 forecasts**, using FEV's task-normalized median and including code research, candidate evaluation and chronological composition. See [runtime accounting](docs/RUNTIME.md) and [per-task results](results/timersi.csv).
 
+## TIME results
+
+All 98 TIME tasks. MASE and CRPS are normalized by the official Seasonal Naive reference and geometrically averaged across tasks; lower is better. Before/after rows use the same tasks and each version's frozen backbone.
+
+| Version | Backbone | Deployment | MASE (norm.) ↓ | CRPS (norm.) ↓ |
+|---|---|---|---:|---:|
+| TimeRSI-1.0 | TimesFM 3.0 | Before (Raw) | 0.639759 | 0.536328 |
+| TimeRSI-1.0 | TimesFM 3.0 | After TimeRSI | **0.630011** | **0.527713** |
+| TimeRSI-1.5 | Timestral-209M | Before (Raw) | 0.626229 | 0.522279 |
+| TimeRSI-1.5 | Timestral-209M | After TimeRSI | **0.614494** | **0.512970** |
+
+Result submissions: [TimeRSI-1.0 (merged)](https://huggingface.co/datasets/Real-TSF/TIME-Output/discussions/48) · [TimeRSI-1.5 (under review)](https://huggingface.co/datasets/Real-TSF/TIME-Output/discussions/55).
+
 ## Code and inspection
 
 1. **The program:** We provide the [search implementation](src/timersi_u1/search.py), [FEV task adapter](src/timersi_u1/fev_adapter.py) and [installation and evaluation instructions](docs/REPRODUCE.md).
@@ -25,4 +38,4 @@ Recorded end-to-end runtime: **2,511.713 seconds per 100 forecasts**, using FEV'
 
 See the [data-access protocol](docs/DATA-ACCESS.md) for cutoff handling and evidence scope.
 
-Updated at 2026-10-14 02:02 PDT.
+Updated at 2026-10-18 PDT.

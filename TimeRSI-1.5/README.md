@@ -50,8 +50,4 @@ To regenerate deployment decisions over the released program pool, pass `-k '{"r
 | Inference: final selection/composition after candidates are ready | 523.951 |
 | End-to-end | 2674.092 |
 
-FEV computes `median_task(100 * (training_time_s + inference_time_s) / num_forecasts)`. Counts cover series-target forecasts across windows, not horizon points. Phase medians need not sum to the end-to-end median.
-
-Reported times are recorded-cost estimates adjusted using paired equivalent-execution measurements; required search attempts remain included. Candidate preparation is included in adaptation, not omitted. A new invocation separately records its actual replay wall time in `RUNTIME.json`; frozen-program replay alone is not the full search procedure.
-
 Hardware: 8 NVIDIA A100-SXM4-80GB GPUs, 96 logical Intel Xeon CPUs and approximately 1.31 TiB RAM. Backbone services were preloaded.

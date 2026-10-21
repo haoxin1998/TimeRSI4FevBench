@@ -1,0 +1,777 @@
+{
+  "boomlet_2187": {
+    "file": "4066c2b89b623c73ff5e.zip",
+    "sha256": "c5ea45b78f9b4163f1b2e041993347b82af2cc7a6df4f973751a50a71ae3802f",
+    "parts": {
+      "4066c2b89b623c73ff5e-state-000.zip": "b4cdaca37b16a00096b6b622c4b4ab8fc62d8d36a5545c1ca7faa07bd236e491"
+    }
+  },
+  "boomlet_1975": {
+    "file": "41d24b945c26e423b22e.zip",
+    "sha256": "a1d9add7fc1eb78c97878e43bbfc998915b63b6e25dbac3b164e959af9d2c9b2",
+    "parts": {
+      "41d24b945c26e423b22e-state-000.zip": "7c9f9a017421514bb13021849bc2524ac60f9e7892580b8819b306b9184706c2"
+    }
+  },
+  "boomlet_285": {
+    "file": "76d30011abf424805896.zip",
+    "sha256": "ef77f8fb4fc13edf8e2272f9792a46575534ad3a57453dfaa6898d210490eb77",
+    "parts": {
+      "76d30011abf424805896-state-000.zip": "0e4f97cd826645a34506038f71e855fe1187b709ca6c956902508f1cf70007c0"
+    }
+  },
+  "boomlet_772": {
+    "file": "1ada19544ceb8da9a377.zip",
+    "sha256": "06c0900a2aa88ade9c1e094859f056a4b2dfc0ed9095678480804f8a706bc2f7",
+    "parts": {
+      "1ada19544ceb8da9a377-state-000.zip": "4633676f90e84d5a7e4a0cdfa3d5f8324c026340c2cbcccff19876b1576d87f3",
+      "1ada19544ceb8da9a377-state-001.zip": "6597eb96f32c4a5c7c5c5bd69499f7d9275330b4fcc32c3c134b55a60bcf2c54"
+    }
+  },
+  "boomlet_1487": {
+    "file": "d23d3b0bf1715ddb522f.zip",
+    "sha256": "71a7e48ae675b1f29ecf7d15a83634123c4048cfc3e2b58fda666ca21dd6a0f4",
+    "parts": {
+      "d23d3b0bf1715ddb522f-state-000.zip": "14ebd2c17f74625422344dede4381009e2e0b39a84f853874c9406c41ddb9430",
+      "d23d3b0bf1715ddb522f-state-001.zip": "8c953737057da357d0852af2a3d97850c99dfc1ec30ffb3ed720bf1e94045c0f",
+      "d23d3b0bf1715ddb522f-state-002.zip": "ea94b990915d3f327accf7a7a2646bc8e11a38182359147b206a163122ef5624",
+      "d23d3b0bf1715ddb522f-state-003.zip": "eab880c4f8484839c72ec13bbb2e69fda5f39e0105f3eee2f62bdb44a081383c",
+      "d23d3b0bf1715ddb522f-state-004.zip": "d77ba3e9dc912d1f1f08b4a78e733d01f54a92ddc7d9980d1daf7f07fd345c5a"
+    }
+  },
+  "boomlet_1209": {
+    "file": "33bacc369fb7525456aa.zip",
+    "sha256": "15fb73d26afdd240aadd72f665344e278af70cf7169d1509592e82d0c55b0732",
+    "parts": {
+      "33bacc369fb7525456aa-state-000.zip": "0b2b0d87e793fd903298507c92f069675a1ff553db2bd502a74e81e816b48c0a",
+      "33bacc369fb7525456aa-state-001.zip": "55d5e929319c6f0daf9265d178aca69202238f61ad28947422f3395a2ad2d700",
+      "33bacc369fb7525456aa-state-002.zip": "bebc3837cdf00979e0e77a540df4a0d44fbea99afb73ee13cd28ee389fbb8dd4",
+      "33bacc369fb7525456aa-state-003.zip": "1804dc8ee2d1e179495cc748332ee6350c4dd2bf437ce87d3e542c674723780d"
+    }
+  },
+  "boomlet_1855": {
+    "file": "19585a8b1436b2026985.zip",
+    "sha256": "46b55aa16bd6fdcf0d9e2b3703ffb4437657d2cbdee19e22a1fe646cdba5744e",
+    "parts": {
+      "19585a8b1436b2026985-state-000.zip": "6fe92ae52fbcc5e7eb2047175c451041743198bcc4084225c03aa31b55a59f04"
+    }
+  },
+  "fred_md_2025/macro": {
+    "file": "8933da21343657a6277f.zip",
+    "sha256": "18135b053862bd3eb9d86f0a18b8a4716986b643ff315145720fe988421cf31a",
+    "parts": {
+      "8933da21343657a6277f-state-000.zip": "c71aa4becf755272573b71f59a444197ff58807d727249a7e5c1891448cc5acc"
+    }
+  },
+  "fred_qd_2025/macro": {
+    "file": "092ff29118715532da54.zip",
+    "sha256": "8807489905fa188a951b65c79fbebb402246ce48001ce9e4644022b301bc205c",
+    "parts": {
+      "092ff29118715532da54-state-000.zip": "7f3317c5167bb0e7724ff79ee0b98696d47e643e94577c09c4c419566f2b917e"
+    }
+  },
+  "boomlet_1225": {
+    "file": "59a7078aacb979860f87.zip",
+    "sha256": "33777b9ea92bf3c87d3436f03dcadd5e460ee0a7634f862c3aeba69cc1b26fba",
+    "parts": {
+      "59a7078aacb979860f87-state-000.zip": "3ccaff4b76d108ef49676b324577cc7d00f958f99cd7e265898265ce0a024874"
+    }
+  },
+  "boomlet_1631": {
+    "file": "82739216ae8a51a1c41d.zip",
+    "sha256": "e3c6f8aa5ffbbc7c26c943eb73e04284d41d93a682d14c25684aaa8de1b29bbb",
+    "parts": {
+      "82739216ae8a51a1c41d-state-000.zip": "10f42b709a9ee2cd9a34db4d97f5cfddf626b29d9a914acd421595ae2525ab97",
+      "82739216ae8a51a1c41d-state-001.zip": "9961e104fce2aec9196d21182db91144b76c3ba4a889b78a7f78b657ddfe1284"
+    }
+  },
+  "boomlet_963": {
+    "file": "523e4b0d4cbea974667c.zip",
+    "sha256": "6480f3608eb5880c4b7421a33a5330ce0093d4ad78f15168c43d58c501620ed8",
+    "parts": {
+      "523e4b0d4cbea974667c-state-000.zip": "dc02818b616c14d20cdaebe55ea4877ad5678f2a3bc142a03f09aef75fafac7e",
+      "523e4b0d4cbea974667c-state-001.zip": "1a262aede207206231687d90bb5e49f547cfea6cf412931f3f4349bd3453cc49"
+    }
+  },
+  "boomlet_1230": {
+    "file": "ded19bf884677df99f6c.zip",
+    "sha256": "2defbabaa561953e2474d57c75ae2cf94e827ddfcee064b455d9b645336fe9e8",
+    "parts": {
+      "ded19bf884677df99f6c-state-000.zip": "cf13e1e45a9c6314577fa2d37d76118395ec865bc2ee96e726421fd682f809fd",
+      "ded19bf884677df99f6c-state-001.zip": "7406f676b8d11c7577a15f2003ac1980123546134bf8d0fc97598485496d755e",
+      "ded19bf884677df99f6c-state-002.zip": "49c3737d0a9fed4f1a9e069d793d59e2b46f00a06a90443d5ab82492dcfaf550"
+    }
+  },
+  "jena_weather_10T": {
+    "file": "62d88bc9c0b6242cbc03.zip",
+    "sha256": "1233f14eb2028659e1ad2e84538d99b35e9f26e59a499b2b95b0ca4538880b8d",
+    "parts": {
+      "62d88bc9c0b6242cbc03-state-000.zip": "df1789ec46c13ce57985c16cc812fa7648f4d59800021b9e0358993baa295b69",
+      "62d88bc9c0b6242cbc03-state-001.zip": "dc8dc5b9c2721e4834dc623b68abae5c55198b42b6edcb3c560fb6cc7f1f3314",
+      "62d88bc9c0b6242cbc03-state-002.zip": "007af9edf5eb97c353789d15feee601e6132293afe4f1cfb453f0a1bac50ce72"
+    }
+  },
+  "boomlet_1062": {
+    "file": "6ee0c20ec64c469ffc1e.zip",
+    "sha256": "1ff3e1dbb548b28d4ed2c42eff31bd041769c5e9a3603035a36b791c290864c0",
+    "parts": {
+      "6ee0c20ec64c469ffc1e-state-000.zip": "cb2027813959d1256fbb3e43f9307f1c8698ac670208879baa30942695419ee3",
+      "6ee0c20ec64c469ffc1e-state-001.zip": "c22f9a19b987b7f85d1d25877711edc624ee3c4355fa4ee29319551296dd4d5a",
+      "6ee0c20ec64c469ffc1e-state-002.zip": "ed5017357e4b9ea59027cd4b14c043df62675f8168eb4670af73024fffde97c8"
+    }
+  },
+  "ETT_1D": {
+    "file": "6d76757940f55a2b9bbf.zip",
+    "sha256": "9c31d79c2caa3286686ca558cda24a56bcce4205b2507b31b522896894e3b865",
+    "parts": {
+      "6d76757940f55a2b9bbf-state-000.zip": "bb7eae585e31851bf4022445fbd0f645edf986e1340edee509ac08c1db96f843"
+    }
+  },
+  "uk_covid_nation_1D/new": {
+    "file": "47542d76beef96700109.zip",
+    "sha256": "5c916f6385b6b4b28cf1629786e1ca14c78aada82793e68327a37f0d0b7ea75b",
+    "parts": {
+      "47542d76beef96700109-state-000.zip": "8fa70fb8378e9cc65ebcb16081c161e408bca28e5691511db3acfc0766b6055c"
+    }
+  },
+  "proenfo_gfc17": {
+    "file": "0646010bba08edd5ef70.zip",
+    "sha256": "ce2245f36611d489d4ece7925be8ddf92cfae6cdb0cb92964e39ea0fd2f6812d",
+    "parts": {
+      "0646010bba08edd5ef70-state-000.zip": "09f403dc28b0fe27fc6314e52a5207076ede5c122758b571b57b2971cfa5a8db",
+      "0646010bba08edd5ef70-state-001.zip": "5b8b6df094b345e04a2113588718d314fccf3fc4e46e5b34cc28b896b9efbdd0"
+    }
+  },
+  "ercot_1H": {
+    "file": "8e7eb63377203d49236f.zip",
+    "sha256": "616de8cb2c68d6af849503a1bfa187ba4683a97571dd80dc0f8b8e603f68b14e",
+    "parts": {
+      "8e7eb63377203d49236f-state-000.zip": "483dd79df8c5afd9e41856d4ad51e2e1dbba841fb4ac02fe6965e00ca8727bc0",
+      "8e7eb63377203d49236f-state-001.zip": "f5c2f976d1e8f31a2e4a57343fc27e131896f20fe11b4a68c61f8e0c93651071"
+    }
+  },
+  "ercot_1D": {
+    "file": "9078e43090ca41d91957.zip",
+    "sha256": "61653e6dc08d7ce1677fda1f15e2799191f3265d7fcac12acf62c01db6992a54",
+    "parts": {
+      "9078e43090ca41d91957-state-000.zip": "41393e9b7c2451139749072aa8a192cf588190a3ffbfe7345e734ee9abff563c"
+    }
+  },
+  "ercot_1W": {
+    "file": "fa4bf00b80e1573d0d72.zip",
+    "sha256": "7e2a909408ea63cf19ad13558491411d82803f42ea9998ffcac847215902bced",
+    "parts": {
+      "fa4bf00b80e1573d0d72-state-000.zip": "5befd9d86f8547885666ac69569646d418117f29f9251f74e5edd9788effacb0"
+    }
+  },
+  "bizitobs_l2c_1H": {
+    "file": "d84f028a51a9876b6d6e.zip",
+    "sha256": "defb3fec49eecbc8cb0271d1619630d0303d5157013d099dd40f6154f372c6a4",
+    "parts": {
+      "d84f028a51a9876b6d6e-state-000.zip": "052693e9dae1bfc49c33a4437151fb766afc935fed3611f897bf69bec01490b4"
+    }
+  },
+  "entsoe_15T": {
+    "file": "639f93eaa005d09e37cf.zip",
+    "sha256": "1446438f006b645c5ccb0e91f215010b95711467b1361fbcc37af47e42b65f78",
+    "parts": {
+      "639f93eaa005d09e37cf-state-000.zip": "8b50bec73c7a097a46497517f2a06d2038691d40e55873564f6df5d48f436a0f"
+    }
+  },
+  "entsoe_30T": {
+    "file": "b7428c21769226736d12.zip",
+    "sha256": "e006fa788151de865f4594cb51fc6455bd5404a700a8e906908a9ce23eb06620",
+    "parts": {
+      "b7428c21769226736d12-state-000.zip": "fff90425037fe1d9776759745aba11c56f6dd734a9b62eced76863388e45b51e"
+    }
+  },
+  "entsoe_1H": {
+    "file": "f93acbf2bd4428face8f.zip",
+    "sha256": "3d445c31abaa757ac5b7384c55fd432c7bbd7bf9a86b39d2008a3f83418e227a",
+    "parts": {
+      "f93acbf2bd4428face8f-state-000.zip": "37d4799cbf671a893a6a3266633b4400e5973cee8bfbf6b20a67ec08fd980ca1",
+      "f93acbf2bd4428face8f-state-001.zip": "45338652d5da14bdf17fb4f35a02dee9683cc8ebd8014af841d0f922fa5e4470"
+    }
+  },
+  "fred_md_2025/cee": {
+    "file": "736d670818478365c6c9.zip",
+    "sha256": "1a564781a542c012ea05cc79c6e218ef74c9e707e43191a43b503cc8c95a3ae9",
+    "parts": {
+      "736d670818478365c6c9-state-000.zip": "819197a95774cb1cca291c6ba9bcf0fe10b34e1bb829941d4864cd22bc5f82a9"
+    }
+  },
+  "fred_qd_2025/cee": {
+    "file": "8c7564967a19daef5e31.zip",
+    "sha256": "865ff7c0d123b50ef61bbd849f1f49ff8d7aac6addd41ca030a989959692db75",
+    "parts": {
+      "8c7564967a19daef5e31-state-000.zip": "8143e7ad8f12e9b40cf683544875d0100f13ea54e4bcb0726e11a73fecfd5854"
+    }
+  },
+  "epf_be": {
+    "file": "54f1b4949e3fc744303b.zip",
+    "sha256": "ef0abb3ced8f446cb49e92badb5820ba2a5de9a2da017eef48b344992a093379",
+    "parts": {
+      "54f1b4949e3fc744303b-state-000.zip": "c64279ea342c8b1ef933f2809e0728618569413fccb2d7332652d7f518b50b04"
+    }
+  },
+  "epf_de": {
+    "file": "ef7f23bb91ff54b9d601.zip",
+    "sha256": "46836b9d2da319dceb33f75e31309e5fd015faf370d090c661f2ca9407fd92a1",
+    "parts": {
+      "ef7f23bb91ff54b9d601-state-000.zip": "1c07e21a5461c46c8da3d8fbea8fcc886698f7fb39d5d19f2351f7d95a21f803"
+    }
+  },
+  "epf_fr": {
+    "file": "c0b26782da701ae3eede.zip",
+    "sha256": "9abbcf80460e8fb983c4c9b45cfa928bb171208adfbc10bff81cc884eeaf5d58",
+    "parts": {
+      "c0b26782da701ae3eede-state-000.zip": "4b3a305271a085cc6fc3c2860101b0a4c31a4314b959ec53cf0b111b4dc3ee77"
+    }
+  },
+  "epf_pjm": {
+    "file": "d89fd831aea42765c453.zip",
+    "sha256": "f7c2711a231504f258806bf9af0d770d4d0f597b043f3ea653ece813a8cb79c6",
+    "parts": {
+      "d89fd831aea42765c453-state-000.zip": "7dd1e0b1862111840d517be0b2cb22996a1c3a914df213afdae686d7bb43c289"
+    }
+  },
+  "solar_with_weather_15T": {
+    "file": "179faef459153200baea.zip",
+    "sha256": "76c58237218251b54f61151534fc94019161b56ec291d2e36d4dd8e5adad5f02",
+    "parts": {
+      "179faef459153200baea-state-000.zip": "61a1aaba150d570fe19f7db712ffe3f17fead5990edb89801058c1e1a18c6999"
+    }
+  },
+  "ercot_1M": {
+    "file": "a1085ea95b9d45f61d75.zip",
+    "sha256": "bb129ce8476dcb7662187a5d2916ae2d69dc631afc64caf449eea8136e472b86",
+    "parts": {
+      "a1085ea95b9d45f61d75-state-000.zip": "9c352263728a4a2aea74c6b76a6cfaaac938bb78a887d1d6ded7bbb566cfe16c"
+    }
+  },
+  "jena_weather_1D": {
+    "file": "fc017181ce3fd6736b1d.zip",
+    "sha256": "898258d5bdbc4a2785c24ee81d14e870be3c6f3efe03e99a968312b366c16ff7",
+    "parts": {
+      "fc017181ce3fd6736b1d-state-000.zip": "3bb79927dd2abe32f31d890f0b4b925018db1e6feae556d7d898774b7f3f907c"
+    }
+  },
+  "uci_air_quality_1D": {
+    "file": "9b4f300509c9e94a8a0e.zip",
+    "sha256": "2db1ee8a06f5e0caaa9339a1027ca2eb1e6602a4d10d1bc93fe2bb30a5411564",
+    "parts": {
+      "9b4f300509c9e94a8a0e-state-000.zip": "a4750723a4478d39d9835bb11e4719c8e2449bc63b0db4f9527e32fd339241ee"
+    }
+  },
+  "favorita_stores_1D": {
+    "file": "869c6687ec2faaacbdc9.zip",
+    "sha256": "c7073dd90c370ee99e469bb257b3bdebdb362d0e72417da61ecfe6b42364f837",
+    "parts": {
+      "869c6687ec2faaacbdc9-state-000.zip": "9337db862aa85cdbfde56dbea28b5ea3cd279caef66e860340cf33614798d88b",
+      "869c6687ec2faaacbdc9-state-001.zip": "cde9f0398ed806b82ee640c6d220365a60620603c84719cec47023d5b70b9359",
+      "869c6687ec2faaacbdc9-state-002.zip": "b9d4c8a22e4c62afaa4ad09459a7cf7704d6316621d9abbfbd9a8b03de8f583a",
+      "869c6687ec2faaacbdc9-state-003.zip": "f9cd9e2ab5e556a8697654bbdf93d2b4d667c9244e8ba1eb68be616c637b9a00",
+      "869c6687ec2faaacbdc9-state-004.zip": "512701aafd5af4c0be70a03318d8d73098c471a92c2ae5a5dfd211610ecde3a8",
+      "869c6687ec2faaacbdc9-state-005.zip": "fd22c75918e2e14138ce7c559fe31f476ffb26e36f2a9c3ce48a378a911c978d"
+    }
+  },
+  "favorita_stores_1W": {
+    "file": "d62ba618a48dfa679674.zip",
+    "sha256": "44f1846ceb24d03dfbcaaac2c8f42508033592aad491fa43e459a1e4c1d48894",
+    "parts": {
+      "d62ba618a48dfa679674-state-000.zip": "cc8e542de0b710433b418b70286aa1a2cfac3cc4f8c52dc264ffcd567c186f30",
+      "d62ba618a48dfa679674-state-001.zip": "0532e222ecdaf0a589a3ae7ebd13537afb187196eb0d0ec983217886833f667e",
+      "d62ba618a48dfa679674-state-002.zip": "865dfab2f670de0dc6f99fa1fe9e0f46cf668965e8eeaacffa00adb1ef644993"
+    }
+  },
+  "LOOP_SEATTLE_5T": {
+    "file": "36192eef5504b59dd249.zip",
+    "sha256": "b05465829bc611af8569531b4b9d3d0961cbe64609e2b4dfb99e6d09f9e813f3",
+    "parts": {
+      "36192eef5504b59dd249-state-000.zip": "f4dc0712c3590483cea23cbb9a501d9373a3e48d779bcc484ac93a7fbd72ba93",
+      "36192eef5504b59dd249-state-001.zip": "28d3c1f22fe797f38bffe3bf3afc6b654cd96889791313f1ef2f5bb84a437194",
+      "36192eef5504b59dd249-state-002.zip": "8715de0982e698494590992da609392651024e05f2f4330806c919f674662835",
+      "36192eef5504b59dd249-state-003.zip": "f899798715ea984575e95a4f7a925e8722663d9aa16c5f7c67c7e5c0dcbf335c",
+      "36192eef5504b59dd249-state-004.zip": "bcea5431255f43658dd860c4a57b444ea5a86f1b00e9b2c62c8e2e256de8fc37",
+      "36192eef5504b59dd249-state-005.zip": "df7f51c072071ca447537b344a8055c145b877cd6eed7f1f420989810152b447",
+      "36192eef5504b59dd249-state-006.zip": "80438f853f6386bd6d2593c4abe75bb63dc6f0a07432cc64dc3488ebd9735cf0",
+      "36192eef5504b59dd249-state-007.zip": "3d2c2f0c0da863545720c94b931e749544fe9de83c5a7d5db5170214e75c2e75",
+      "36192eef5504b59dd249-state-008.zip": "d3dae0cfc15f2a2b2519c4e2464fe60dd546f075544aa3d7c44cf0698052cb66",
+      "36192eef5504b59dd249-state-009.zip": "0f37749fa4a73aff983f1f071edc2744a2128699fd6d05cc69a4cd9ed233a477",
+      "36192eef5504b59dd249-state-010.zip": "99ff89fe9dd131872d2cc122a4f29058cc9550c0321d073477aebdcc2f93d116",
+      "36192eef5504b59dd249-state-011.zip": "75f6896d84db5deac6322092b13609a4eeced0638098a91186e1cae9db02300e",
+      "36192eef5504b59dd249-state-012.zip": "e410b74d57f0a73b3451eb75e53f2f65161170e339ce42d115db31ce5c0def84",
+      "36192eef5504b59dd249-state-013.zip": "26b76887f4d550ab06c9fbd18817ae0d7a2b57f7471334ffc26ce2cde1301529",
+      "36192eef5504b59dd249-state-014.zip": "0e22a2c686ede98418a57f1a800c2e975c472e4995131a7fcdcb93af3a54ffa7",
+      "36192eef5504b59dd249-state-015.zip": "512ecab07023edda6a8b38296f016c4e970cac0cb07e5f72ab7970458afc4085",
+      "36192eef5504b59dd249-state-016.zip": "d70815167a0e851d1d349d4218ed6c14d3387e80bd70a15ad9eb0e28523512fe",
+      "36192eef5504b59dd249-state-017.zip": "2f2057fcf2a32837e8fb7c1e8df1c8af6e26f5ecd9c211b93166c86b2b98f11e",
+      "36192eef5504b59dd249-state-018.zip": "5891594de4b7021a2e105a88f73efe9c3498d5eaef94ccdf1e872472c8ebb282"
+    }
+  },
+  "LOOP_SEATTLE_1D": {
+    "file": "db367b81f43523bfb489.zip",
+    "sha256": "e0d8aa422433adf38f7ac008ff6e042fe1dfda7aa1d9f7c827efb74280197c6e",
+    "parts": {
+      "db367b81f43523bfb489-state-000.zip": "efb892774aaef4919b83f05f6eb4e79720f8da26a64187182b8118a92ed303e4",
+      "db367b81f43523bfb489-state-001.zip": "b7601a600915ac633498cb34fc4ddae8d481e246e19b458e691df49b205c2d31"
+    }
+  },
+  "LOOP_SEATTLE_1H": {
+    "file": "9a239e2099e1c22e4b6b.zip",
+    "sha256": "fe2e947167272e3637e6e58bd4d01a79f799aa0ce5ed5916487a6e68104cff5e",
+    "parts": {
+      "9a239e2099e1c22e4b6b-state-000.zip": "bad0c44c569de2fc060bd3ec5376c872e0cbcc0e3f9015573a923c25f2ed7a34",
+      "9a239e2099e1c22e4b6b-state-001.zip": "a3c27b11d53d3730dc0f7c5b9cbe3508561335b5ef20e06087fb2dec7c6d0e2d",
+      "9a239e2099e1c22e4b6b-state-002.zip": "cb3095bad25a73fcf3d04910d9b2513f27108e5da107b99f7bede76fcb178bb7",
+      "9a239e2099e1c22e4b6b-state-003.zip": "ad05e77a01c179d7cf739182ebe4559c5c3998a2d81bfea13434dc7f6be8d9cf",
+      "9a239e2099e1c22e4b6b-state-004.zip": "8a8c37b024b5c19ed4ed9bacc26adbb605d99a4222fb419f993db687061e01a5",
+      "9a239e2099e1c22e4b6b-state-005.zip": "0abf44d6fc7aebbc0d6467299287fa0e1f66d1007f60a93d9bc41ec392bd0403",
+      "9a239e2099e1c22e4b6b-state-006.zip": "006ed27c0d04c6648830198796ca110cf871193261c2b140783f5a280802b25e"
+    }
+  },
+  "world_life_expectancy": {
+    "file": "f98fef7c196f8ad3beb2.zip",
+    "sha256": "9114f18f1045c6c8423e1410a6f88bc28a76ee58b60fdb93163001a421e921ef",
+    "parts": {
+      "f98fef7c196f8ad3beb2-state-000.zip": "b0c75c85ad1d77caebc2ac0aebbc44b27674ad40d6c6751bb5209be2abbf4088"
+    }
+  },
+  "uk_covid_utla_1D/new": {
+    "file": "d52db38993165638a7de.zip",
+    "sha256": "bd023f94f15c9d73b20463c58e83478d156e4cadb422eb045cffc94cdb8bff18",
+    "parts": {
+      "d52db38993165638a7de-state-000.zip": "bfafd99e1b457e743b3213f50326fb90c1dafed7135d4a9f7811d1a2fa6026c5"
+    }
+  },
+  "gvar": {
+    "file": "673e2fc6fdf91a77a7ae.zip",
+    "sha256": "591006a343997a594db995f8a94b8bf488de2fc02637a78c2e38610cd370f904",
+    "parts": {
+      "673e2fc6fdf91a77a7ae-state-000.zip": "9c17e21c3650e47bb8f81ccbfb02b57448c61b6c41aff6409ca9267c5a9cd43f"
+    }
+  },
+  "SZ_TAXI_15T": {
+    "file": "eb57cfef8230a60ede08.zip",
+    "sha256": "f151686733dfa3b294fce04fadb6ea6c8a5f95ef7d2c1518e5936761b8f7cc3b",
+    "parts": {
+      "eb57cfef8230a60ede08-state-000.zip": "7fad57fdbbeeb17a94731f73b6e841a717dbda9775827a4ca7abb0c8dc3001cb",
+      "eb57cfef8230a60ede08-state-001.zip": "7bb157463d97d08912500770197ff1d8766c534f804f947132801ce9a9bef085",
+      "eb57cfef8230a60ede08-state-002.zip": "1f50bf3270ee5a06555ac4a065d446b0b49d6af99bd64ed97fd35b488186a93c"
+    }
+  },
+  "redset_1H": {
+    "file": "fba3a6fb2cfe2a75362d.zip",
+    "sha256": "528f6cc6c538ac70e8abec4a8c6a53582995b2bac057d1fc2003291b1ede47d9",
+    "parts": {
+      "fba3a6fb2cfe2a75362d-state-000.zip": "765785d8d4afbc307eff479644d6321993e913de73b9929165ef36c45a3519d4"
+    }
+  },
+  "solar_1D": {
+    "file": "3bbafadceaeec286fdc9.zip",
+    "sha256": "d5b21a6f9c48c35f49f7a93060be7f19dc05d06fcf1b490dbd4d46d58dfbf76d",
+    "parts": {
+      "3bbafadceaeec286fdc9-state-000.zip": "0e883a026714e026492de44c0ac1eca02bbb08b69ef3496ae2fd7c891f6717ba"
+    }
+  },
+  "kdd_cup_2022_10T": {
+    "file": "a1ba8e22a45438adc8cc.zip",
+    "sha256": "bfd6db08f71613faeb23de323b393c2a71afa8fd4922d64239bc82247b07b6f4",
+    "parts": {
+      "a1ba8e22a45438adc8cc-state-000.zip": "85af1841aed2c1dec143cbebc03f69b3a1670ae3758b1bf462a91e45d177f9c1",
+      "a1ba8e22a45438adc8cc-state-001.zip": "93c35509ee9a36e89d140b494d1c09bb2e7660871402997702c0beadfcbfdd85",
+      "a1ba8e22a45438adc8cc-state-002.zip": "7bb2cca7b47db8edf040c71abdee6f57c68037a947d165b55f4ec377ebdfaf1e"
+    }
+  },
+  "kdd_cup_2022_30T": {
+    "file": "285e0778f7598b6ee2b4.zip",
+    "sha256": "0f3436cfe8503abb21134ae989ed29c0d2f51468d1be2e067886594c5d03a08c",
+    "parts": {
+      "285e0778f7598b6ee2b4-state-000.zip": "bccc1eaac90f39c240250509cd5929d66943e3ae046e9fccdef08feec5bf88c4"
+    }
+  },
+  "kdd_cup_2022_1D": {
+    "file": "6517b25f150b47c950d3.zip",
+    "sha256": "c4b917f667f57e498f6a36077204a60cfa9f2bd3e81e35d63dcbb70832433c54",
+    "parts": {
+      "6517b25f150b47c950d3-state-000.zip": "ffb43662341002fe707ff35f18cff5438d3a49f56823bad4793b3492497c8f62"
+    }
+  },
+  "redset_15T": {
+    "file": "1a42d3e074daaa752a44.zip",
+    "sha256": "8e41431fbba9698d62a518982a762e12bc1a8527acc4730acc116d80419e2eff",
+    "parts": {
+      "1a42d3e074daaa752a44-state-000.zip": "05e83f4ebbd7fdf1681bb2c59dfe40a9ef878f7d2a593a94a18a1b71da927303",
+      "1a42d3e074daaa752a44-state-001.zip": "6df7bf97979e2e0cde422fc844757f807806c95032db584b63f7db148b92329d",
+      "1a42d3e074daaa752a44-state-002.zip": "88af4f67f509cedcfbdb00a5a3dfa51d3203206ebf60f9bbeea9865af83c1326",
+      "1a42d3e074daaa752a44-state-003.zip": "a4ab4bd61dac6e01ca3c3a0a214c7eee45406adce98a93fa7bdbe9636f54cf8e"
+    }
+  },
+  "hierarchical_sales_1D": {
+    "file": "7f24c4422abf5aa0338d.zip",
+    "sha256": "9cdd351c01f2a83c8c0e76c8df14514252b8272e16450071d7afdebe0b3919cb",
+    "parts": {
+      "7f24c4422abf5aa0338d-state-000.zip": "3e141556015a893da6423a82d7eb4ab0bd083823fb7a56c13606675d1b86288d"
+    }
+  },
+  "hierarchical_sales_1W": {
+    "file": "0a7b7510e0bc1baa3d8b.zip",
+    "sha256": "e0ed156641d6dbfd56d87dad7353fd585300815109ea27df61f01c797332c7fb",
+    "parts": {
+      "0a7b7510e0bc1baa3d8b-state-000.zip": "f450ef697cec5c0765832342cd5bcd3cc80f426d2f8f3eac25c641a17c843c7d"
+    }
+  },
+  "redset_5T": {
+    "file": "f59362fcab56c83f6f1a.zip",
+    "sha256": "0e3764123b073a7cb3b3b2f6a0d6b9f637db734c0954bcb12a0ce0a9455c34d8",
+    "parts": {
+      "f59362fcab56c83f6f1a-state-000.zip": "b6215e53150f476d475e8c5444d6af49af3a136b2f526e137aa53b3f5e74bd84",
+      "f59362fcab56c83f6f1a-state-001.zip": "fd0835c78956d148001abc9b143e4a536c2890849b60c988c3de5fe9c2720834",
+      "f59362fcab56c83f6f1a-state-002.zip": "b561bbd827e33ad6311cc1d7b1c06e378a09fdbcfe5d455a9622da3a932b3d27",
+      "f59362fcab56c83f6f1a-state-003.zip": "839b4bee56aa579e52c9071289d27c18d3ccf2f0adf71926f8fd9e3acd73dcef"
+    }
+  },
+  "favorita_transactions_1D": {
+    "file": "2d730debb5bf6c77d1a3.zip",
+    "sha256": "dc4dc0f06bdecc6a016030411706868352f5d2de563db773e107e2b3cd761701",
+    "parts": {
+      "2d730debb5bf6c77d1a3-state-000.zip": "ea4533ac28ef2185843a934357cab3082c77af526c7747942ca2ecc80e9f5b70"
+    }
+  },
+  "favorita_transactions_1W": {
+    "file": "b00c143feeb1e71ce4b1.zip",
+    "sha256": "d84d6189f516da68f00387f7b59453fc88f5800189d5d58c8868bafd1974752e",
+    "parts": {
+      "b00c143feeb1e71ce4b1-state-000.zip": "2466f4438b231e06fd2a385db5c82f6c67dcb0850452e58365c9ac56da7447b0"
+    }
+  },
+  "us_consumption_1M": {
+    "file": "27f91b8b046094b4cede.zip",
+    "sha256": "354e3cfcd81814bce0cd4fa2540b7fd36bd93e9147236db5cb6547b05baf3bd4",
+    "parts": {
+      "27f91b8b046094b4cede-state-000.zip": "ea867e2df97a6ae3f09bd9f4ddaeda735240b18a617eecc846009b40f7c85c51"
+    }
+  },
+  "us_consumption_1Q": {
+    "file": "cbe5c4d7ff088c3b0d06.zip",
+    "sha256": "5adeafe78755b900cb498be08ae702a9779313115fb7b33830e654389b551650",
+    "parts": {
+      "cbe5c4d7ff088c3b0d06-state-000.zip": "e587ed81e05768290aff942ee2770821b5443b497af877df1cb58845abe946be"
+    }
+  },
+  "M_DENSE_1H": {
+    "file": "c7c5c3a594d83286070a.zip",
+    "sha256": "eede7137182c64a9d8b41dbed9b0a6033b25acc18604d6e472a43da01db6f06e",
+    "parts": {
+      "c7c5c3a594d83286070a-state-000.zip": "3afdd7145c0e77068e19e15ae6f60269facd9cf348fd6eb87ee50c83e12de64e",
+      "c7c5c3a594d83286070a-state-001.zip": "ff177a31ef4fef124f7505f89535a12079b558db86185c6b58dad4c984d2b355"
+    }
+  },
+  "ecdc_ili": {
+    "file": "eb15a31c392a142e06fc.zip",
+    "sha256": "7e2e4b3524996f5d7c39c43d6189730d7e03917e8b2cbf4d52d78fd9c265d782",
+    "parts": {
+      "eb15a31c392a142e06fc-state-000.zip": "b44c8750f10b00c2c6171698ca582cc99601dc36b03ec65e07c99e9cb3ea87f2"
+    }
+  },
+  "proenfo_gfc12": {
+    "file": "5715a70901cb90dd7140.zip",
+    "sha256": "ab124555187889bf07f6174f3fa226904433cddd287b9920bf4f54663ea994cd",
+    "parts": {
+      "5715a70901cb90dd7140-state-000.zip": "710041388a5ca91b866d5b8c524a0d772bc0cf5ed9b5517fbeba759f46470e3f",
+      "5715a70901cb90dd7140-state-001.zip": "bfa2205ff298b0f7879f933705db017a76e938542497715c846d590a93cdfbb6"
+    }
+  },
+  "restaurant": {
+    "file": "ee275d64dafcd283c25b.zip",
+    "sha256": "79b41ce664ae4bcda823850d52df5943cf8144d79e0a7db929449269a2fcfc61",
+    "parts": {
+      "ee275d64dafcd283c25b-state-000.zip": "d362def2d6c94a623a864cced70150e7849c579c1eaf40b8bd7232c1532a940e",
+      "ee275d64dafcd283c25b-state-001.zip": "74adc35f758b154e00aade9ae5fad430729fcec5da5d8f96fba7a22cc7807a0d",
+      "ee275d64dafcd283c25b-state-002.zip": "4cd459eba7f73ae6c8af554af29d923d3e25d38469f490be27c18f40f6aa47b7"
+    }
+  },
+  "uk_covid_utla_1W/cumulative": {
+    "file": "7dbf36cd6203f46b44f7.zip",
+    "sha256": "a346a430b8802f8bc0b7614affd84fcd6d59bb824cd5c65f8d618226a27b8ee0",
+    "parts": {
+      "7dbf36cd6203f46b44f7-state-000.zip": "389529d35fe49bbd5e747a3e8e2be67a3d711da55b4a8b3aa3d5e80d53fb83e9"
+    }
+  },
+  "ETT_1W": {
+    "file": "b4730bf05bcf50851aed.zip",
+    "sha256": "9386cecacb69996341209851395911233bcfb1cae5ea800cc5721431b13c4e1b",
+    "parts": {
+      "b4730bf05bcf50851aed-state-000.zip": "8b78322983649face8ac87d6abe1ff120f4e9df1254fa3611d1502cf244e0577"
+    }
+  },
+  "rohlik_orders_1W": {
+    "file": "acc21b198a8f322f9310.zip",
+    "sha256": "e937504a72c0d66b7e75d40b805c5abfb43a24f49173ebfd62e8639cb7969737",
+    "parts": {
+      "acc21b198a8f322f9310-state-000.zip": "6c940032665b7296969226871ad567996451f25be5fe8c971e098086ab3e6074"
+    }
+  },
+  "hospital": {
+    "file": "8afe3c83decffdf6dc48.zip",
+    "sha256": "16194e62858af232fb7b88846cdee5d7e2a4b4dba63fce96d295ccee79deb6a0",
+    "parts": {
+      "8afe3c83decffdf6dc48-state-000.zip": "e4619e903fcc58411d6633a9890ad275ccbd6d54d6005aac047a51903d81b35e"
+    }
+  },
+  "uk_covid_nation_1W/new": {
+    "file": "5649227f35f4144abd1a.zip",
+    "sha256": "f8103f411bf86f98dfb8df7d7630fcbfc65b609bf02869b3089b034323259d26",
+    "parts": {
+      "5649227f35f4144abd1a-state-000.zip": "b1b69273107e3f414b882f1b282345eadf55c4330b08cd864fadb396f5c798d8"
+    }
+  },
+  "uk_covid_nation_1W/cumulative": {
+    "file": "37f48fc40256284a51cf.zip",
+    "sha256": "f85bf2a0b99db251ee103fe894f20ffe30f426e871ded9b9db79cdeb06c20f84",
+    "parts": {
+      "37f48fc40256284a51cf-state-000.zip": "04964b92d8fcfa1f53441b9fc70795bd501b2e02ccd244e3bfd4d1e2870f5d8d"
+    }
+  },
+  "favorita_stores_1M": {
+    "file": "cd5871927521e8633a99.zip",
+    "sha256": "4dd5874bf0bc097caac8a0c1c27cf1263a8d0e61f918b045f4e605f3f0ec1541",
+    "parts": {
+      "cd5871927521e8633a99-state-000.zip": "cbf0d1385ff6740ff06f7b091e38721d74ce75fa7e2dc705e68310f321a1d86b"
+    }
+  },
+  "world_tourism": {
+    "file": "23ec98cb6f0a229b8925.zip",
+    "sha256": "cd853b66b68010ec1340681344a08be044a6e869ad4072534e127187d5e77def",
+    "parts": {
+      "23ec98cb6f0a229b8925-state-000.zip": "e525f3e4225000de4377bde9ac181d51f62d45f3ca8eabf9ca0f934415f9f362"
+    }
+  },
+  "SZ_TAXI_1H": {
+    "file": "8c97d09ce51a99a1cc20.zip",
+    "sha256": "4bbe3d4ef3bca632d5923606d9091768a667fc4841b094c4388db6bd83fd2e9f",
+    "parts": {
+      "8c97d09ce51a99a1cc20-state-000.zip": "9b4345b8f81f6e96c0e5d35b04c7634033203c2ece24111186bc484e8e22bc30"
+    }
+  },
+  "australian_tourism": {
+    "file": "42273c9720dfb549e361.zip",
+    "sha256": "146fe44c770fe2e2e7d70b254ce242feea911a2efe40317fcc3b23e254033df5",
+    "parts": {
+      "42273c9720dfb549e361-state-000.zip": "cd9f5fd86ff77448715eb607617187cd760258cbec5cc25392d30b80f9f412e0"
+    }
+  },
+  "favorita_transactions_1M": {
+    "file": "02711bda92ddd077d382.zip",
+    "sha256": "2182ad7104430eb9995c28d89a9ebdb9b56ee4327238b736c59cf3f8f392656e",
+    "parts": {
+      "02711bda92ddd077d382-state-000.zip": "f89ea36aca4f641cd2bae08bcef7d35de2c04898fd02e74fddcd75c76da24c13"
+    }
+  },
+  "m5_1D": {
+    "file": "0eb133f5b99e05da92fe.zip",
+    "sha256": "7117eafca46e67f8e9bb4b1998df09f6d2653060d07d2474dd840e650d8d18fb",
+    "parts": {
+      "0eb133f5b99e05da92fe-state-000.zip": "60583124be1f89bf85a716cc2ac30196acc8339c5753f2840ec574433e64c86a"
+    }
+  },
+  "m5_1W": {
+    "file": "8092dda33bb68754efd5.zip",
+    "sha256": "4455b21c790059c84d35954a8e06c907722be1ee5f715162349f911e174ed09e",
+    "parts": {
+      "8092dda33bb68754efd5-state-000.zip": "8617584879827c0d7e5c1bb628ad0fbe255008e7150ad35498557e817ffb527a"
+    }
+  },
+  "m5_1M": {
+    "file": "36ce7b297c95fbc7b186.zip",
+    "sha256": "ef8a173a29f891ceb6b3f96447a3883c506600101a57b70c61cda598a080eef7",
+    "parts": {
+      "36ce7b297c95fbc7b186-state-000.zip": "0093d80f1929d7beab634ca08ae3511b42be50eba328457b2d0a0d5c9312731e"
+    }
+  },
+  "hermes": {
+    "file": "8cfde6efdfc4ed5ab1f6.zip",
+    "sha256": "9921ddbed4989bc9c3b39e67fd9a9352e95f5b619bdd548af8514db95928517c",
+    "parts": {
+      "8cfde6efdfc4ed5ab1f6-state-000.zip": "87cd361dd12f76c9a38c7438bd4b4b529e33fecce841e63350294aeea582f753"
+    }
+  },
+  "rohlik_sales_1D": {
+    "file": "986c179d04978a1a369b.zip",
+    "sha256": "f79da0d5ce21f549b560936f6db6b30d0eb9cf8886a10daf6b480c4b0ca7a680",
+    "parts": {
+      "986c179d04978a1a369b-state-000.zip": "6e51e0ecfc943f119d50ff3987492734de63f0f60ea015a06fb1fed9f0a49f75"
+    }
+  },
+  "rohlik_sales_1W": {
+    "file": "6ce01afdbd067bf9a6dc.zip",
+    "sha256": "1d97d77ad3c21a118a9a6a10159349674edec7d87dd4a0b9492b0d22b61d8e12",
+    "parts": {
+      "6ce01afdbd067bf9a6dc-state-000.zip": "3c50563ffd3efef015fcad9479af229c104420b4b2f546db600a4e51c99e8959"
+    }
+  },
+  "walmart": {
+    "file": "943c3eeb252dbd176df2.zip",
+    "sha256": "b09d3cbf6be81bcdb68d5774d0f68e99db831dbbde287521d07d2119ba01be57",
+    "parts": {
+      "943c3eeb252dbd176df2-state-000.zip": "88d9d4e90b27849bac19024dc5ea0672142659b441767b6bbd9d1c43d3316062"
+    }
+  },
+  "solar_1W": {
+    "file": "8e7437650c9d2de83451.zip",
+    "sha256": "868cb465825658786136b47b796feb8cbb743454b570e261b2eec37fc8391bc7",
+    "parts": {
+      "8e7437650c9d2de83451-state-000.zip": "e93a248d922d762e2ce489c1ee1a918926ad9ee2e33ef40ae7af11087927910a"
+    }
+  },
+  "hospital_admissions_1D": {
+    "file": "131b818a518b52064654.zip",
+    "sha256": "e3da6f9a1b2fa42a6b8cba120ba9641e8774e3d8e0f1218e814f8f244128b9fa",
+    "parts": {
+      "131b818a518b52064654-state-000.zip": "1c21c4099200ac533ccf7464ae32551c55afa4381c96eeb80cc4fc642049d8a9"
+    }
+  },
+  "proenfo_gfc14": {
+    "file": "276a55ec2f842c843171.zip",
+    "sha256": "f14122f96d2ae3bd481b858e642c1f69795f3747f7b4a6f6c70017d5e9ad1980",
+    "parts": {
+      "276a55ec2f842c843171-state-000.zip": "9ccc533ae99534ef13e67fb1318720ee1c769caaa97ab6038d976a32a1885d85"
+    }
+  },
+  "solar_with_weather_1H": {
+    "file": "14aac73ab4425eefc19e.zip",
+    "sha256": "7e2218dad10a6f3bddd5fb73c20b5d601b8e0f0f195dbb95ee2bf4bbb8cb397b",
+    "parts": {
+      "14aac73ab4425eefc19e-state-000.zip": "6e62f2d19d34f23b173bc8a49c3af84a1c1c9a806f22595b8e83e47196494bca"
+    }
+  },
+  "boomlet_1676": {
+    "file": "e6f0d4956e0871bb6985.zip",
+    "sha256": "e852357d6a94eeb23b69ddbc93510390178a627376d1351e18f8d611a5c6c0cc",
+    "parts": {
+      "e6f0d4956e0871bb6985-state-000.zip": "b2fb88b21f7c046a173806ad9d8d5b8c2ac217dee22231e46ca84278e0ab1869",
+      "e6f0d4956e0871bb6985-state-001.zip": "bcee817ce12dcaf3c6389209daa3deeeeff3c3db6f92737be84b8350500a9c73",
+      "e6f0d4956e0871bb6985-state-002.zip": "502a7075064e474617d5b56b0458516002b71da5937d8cf7a4ad82e7375d0f43",
+      "e6f0d4956e0871bb6985-state-003.zip": "45c0c37f7ab630f673462bb517b690e24e927d16f377549dfc4f2191ccb15c6d"
+    }
+  },
+  "boomlet_619": {
+    "file": "c0c143110809ef863969.zip",
+    "sha256": "eaf1883482597a9759a4d12d75dd85bd0a77b6de5bc0b3475b1890219232410f",
+    "parts": {
+      "c0c143110809ef863969-state-000.zip": "aa21567c1799e0b61cb17759e8660d637f386f0145cc3eafd6034ffa1933bcc8",
+      "c0c143110809ef863969-state-001.zip": "93e5849a982c9893c6806da592b95a3a317ecfa9e71cd25e83cef02528c6cf45"
+    }
+  },
+  "epf_np": {
+    "file": "075220e9c8af3662ab08.zip",
+    "sha256": "a626e3032f15b9c1b54811ad9786ad81774d61aa5eddc255e110b5a7efb86578",
+    "parts": {
+      "075220e9c8af3662ab08-state-000.zip": "456034c4f3a99b555d007ff2b483aa59d7057fd47d5bb8681860c298da878762"
+    }
+  },
+  "boomlet_1282": {
+    "file": "e73ef1b860d1dffedd47.zip",
+    "sha256": "31ad43a41d43f585490f4e55a4002d8ba3a844e87755d814852cd494b8db43e2",
+    "parts": {
+      "e73ef1b860d1dffedd47-state-000.zip": "fa4627a7816930841ad5071b7e5bf307d0fc329387068bfaa90492c20ee1ac07"
+    }
+  },
+  "uk_covid_nation_1D/cumulative": {
+    "file": "d7f6d02c0b5d93570b61.zip",
+    "sha256": "41549518aaf8def62bf1c87daadaa8653ba1f6b53a39c62284cf188ab8bbb3a8",
+    "parts": {
+      "d7f6d02c0b5d93570b61-state-000.zip": "969554dc9fffda0f92e5c4e31252e13182a1ed8a7cd72a60d5751d056203156a"
+    }
+  },
+  "jena_weather_1H": {
+    "file": "27bbc02dc2cccfdfc0d4.zip",
+    "sha256": "285675edd106e46499a40e2c349c11d2343187a44b1204f7fd797893fbcdc89f",
+    "parts": {
+      "27bbc02dc2cccfdfc0d4-state-000.zip": "876d4ab93d117032cb19a2b0840320e06ff259bab14206949788e4e9effcb892"
+    }
+  },
+  "ETT_15T": {
+    "file": "ac7bb3a10090d6354b52.zip",
+    "sha256": "c9ca5f48666cab77f7c1cda6d9b36739cf877adf6ed88e46865b062f6e0042a2",
+    "parts": {
+      "ac7bb3a10090d6354b52-state-000.zip": "e3717b5c5052c9dae390d4ed01d7e52ba8db3704f43ab00dcf868c0c5b4198a7"
+    }
+  },
+  "uci_air_quality_1H": {
+    "file": "8f0cadbe7a855e173bbb.zip",
+    "sha256": "da4c5a8fccf26cda384aaa038b9eb678c2b4df424820c4dae98924f792097672",
+    "parts": {
+      "8f0cadbe7a855e173bbb-state-000.zip": "2f70d9ac8dd6d8cfc9ccb37d1a32cffb1d159a4537705ead82b9eafd0f65a44e"
+    }
+  },
+  "bizitobs_l2c_5T": {
+    "file": "eacab59973ed5672f40f.zip",
+    "sha256": "1d7a6b4cd1ab256cd325a3bf295ab2725cd814e70f32a89b696f825bc387584e",
+    "parts": {
+      "eacab59973ed5672f40f-state-000.zip": "a913b84b6405820e828af04539ac79f265875c0f97b185913cea2fb2410e69e1"
+    }
+  },
+  "ETT_1H": {
+    "file": "8eb2c9afc14f61c6c261.zip",
+    "sha256": "93bca7532bfddb64d48930b97995c19ffccfee0d22d6e015e28b95ef393f509f",
+    "parts": {
+      "8eb2c9afc14f61c6c261-state-000.zip": "d4a9b6c9f3e3b4e2f43062e0e5ec86c0c773594d81958904bf003275894d873f"
+    }
+  },
+  "rossmann_1D": {
+    "file": "33b8f9e6eb849ca55eec.zip",
+    "sha256": "6d91187c84572b45e0be1c71a08d457acbd11cc505949249626ceec25f41d6a4",
+    "parts": {
+      "33b8f9e6eb849ca55eec-state-000.zip": "820b0f48f9568fa18d2b45f408c78165ee0c45b35d413e8758229917f74a2891",
+      "33b8f9e6eb849ca55eec-state-001.zip": "aa523b4cad4ccc4a5c59f29ad3d116633b8e2794521bc7cc5f7725ec46c2232e",
+      "33b8f9e6eb849ca55eec-state-002.zip": "e591b51a0dbd1702a8cddac3e84b9a8f69ecb5a4e3dae1d002eed09835d1a3a1",
+      "33b8f9e6eb849ca55eec-state-003.zip": "6199921011a56a7bf04ab94b775e38d1a1eca6b0c0be959893446dcedcfd8b32",
+      "33b8f9e6eb849ca55eec-state-004.zip": "6e1b93d763d333f190bce01d9a35713675df82866e8bde4322bed22cdeb0ec03",
+      "33b8f9e6eb849ca55eec-state-005.zip": "e7687a8fb31a5249585181432c6402a6241a2705075c328973a9db8d99a428f7"
+    }
+  },
+  "M_DENSE_1D": {
+    "file": "68bafc80b8a43b205498.zip",
+    "sha256": "41b68395ab7496fb8cc203cc0e42a43941a8364114910dc90387bd0efa5d917e",
+    "parts": {
+      "68bafc80b8a43b205498-state-000.zip": "0e64649abf65ea09c5fc07c91c78ed2b51f8b605accd53b47d43e57e6d3d0456"
+    }
+  },
+  "hospital_admissions_1W": {
+    "file": "6f2d7ea8c981e1a228ca.zip",
+    "sha256": "011f2a187e52b36801559f53861b21e779d2a39099171258b64510c871535cde",
+    "parts": {
+      "6f2d7ea8c981e1a228ca-state-000.zip": "6680d2b486720fd3fec02ba2c7636d12210172fe120a81740021652ea27197f3"
+    }
+  },
+  "rossmann_1W": {
+    "file": "a57cb1db2a22b5e1f409.zip",
+    "sha256": "1825fa696de075540c12aeb6ace30d0e9f5344d06a2e20f74aeb3011def5c720",
+    "parts": {
+      "a57cb1db2a22b5e1f409-state-000.zip": "8aca8968a23e5a0797b8d29c99994f4fa9abf6f26744425fcc3141d585e7ba02",
+      "a57cb1db2a22b5e1f409-state-001.zip": "156bf3bf02479a3aa8b691e7909228b788924c0708e7eddb8c9b6b1c186c5ac1"
+    }
+  },
+  "world_co2_emissions": {
+    "file": "7197ba14d2ea3a7bd263.zip",
+    "sha256": "6baeda22efad641f860a387131a7837abf04c09963256143f0c14950233be03b",
+    "parts": {
+      "7197ba14d2ea3a7bd263-state-000.zip": "45da929a4bbb5cdc2c0082c4ec035b156f8f0a4c171d16c4917abaedd5e6a60f"
+    }
+  },
+  "us_consumption_1Y": {
+    "file": "9c1610d0753275606744.zip",
+    "sha256": "ec1bae1097f4a6ffc7fad2518e47660c117aff18d7ca50bb936d3cf36fd270de",
+    "parts": {
+      "9c1610d0753275606744-state-000.zip": "f92d53e537768a20fe0ec524915ed60baa50418d07c85b9be52a6f0c9dc7b77b"
+    }
+  },
+  "rohlik_orders_1D": {
+    "file": "ed8652d8251c699e5588.zip",
+    "sha256": "a1c1139a768836f53a75f77890563634a6430a01d7c2f805d20e848764ac9e39",
+    "parts": {
+      "ed8652d8251c699e5588-state-000.zip": "d19b97d9dc26d8b56a7195f35f162d4c6a32583eaccfe09fde54ef6a59757e3f"
+    }
+  }
+}

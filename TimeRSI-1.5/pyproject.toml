@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=77", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "timersi-fevbench15"
+version = "1.5.1"
+description = "Timestral deployment with agent-evolved programs and historical feedback"
+requires-python = ">=3.12"
+dependencies = [
+  "timersi-fevbench @ https://github.com/haoxin1998/TimeRSI4FevBench/archive/2e9a6c991b46aa25d2ddfcdc906bef25e45d11f9.tar.gz",
+  "timestral @ git+https://github.com/mistralai/timestral.git@a534bdbd244d64f3d9d743f46c7bf6fc330ed4ff",
+  "torch==2.7.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+timersi15 = ["artifacts/index.json", "artifacts/????????????????????.zip"]
+
+[tool.setuptools.exclude-package-data]
+timersi15 = ["artifacts/*-state-*.zip"]
